@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-image: linear-gradient(to right, #32CD32,#00FF00,#008000);
+    padding: 20px;
+}
+
+header a{
+    text-decoration: none;
+    font-size: 25px;
+    background-color: green;
+    color:white;
+    padding:7px;
+    border-radius: 10px;
+
+}
+
+header a hover{
+    background-color: red;
+}
+
+h1 {
+    color:green;
+    font-size: 70px;
+    text-align: center;
+    text-shadow:9px 9px 10px grey ;
+}
+
+li{
+    font-size: 25px;
+    list-style: url(https://static-algoritmika-org.ngcdn.ru/uploads/2021/04/Arrow%201_0_1618309609.png);
+    margin-left: 50px;
+    
+}
+
+.deni{
+    border-radius: 20px;
+}
+.text-big{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.link-text{
+    color:rgb(129, 27, 27);
+    border-bottom: 2px dashed rgb(129, 27, 27);
+    text-decoration: none;
+}
+
+footer{
+    background-image: linear-gradient(to right, #32CD32,#00FF00,#008000);
+    padding: 5px;
+}
+
+.social{
+    padding: 7px;
+}
